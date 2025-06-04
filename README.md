@@ -1,13 +1,19 @@
 # Depot-Rationalisation
-Depot Rationalisation
-**Depots**  
-The company operates various depots at different locations to store and distribute cargo. As a result, we incur expenses such as rental fees, electricity bills, costs for hiring local vehicles, and charges for loading and unloading manpower.
 
-**Steps Taken**  
-We have appointed Clearing and Forwarding (C & F) agents to manage the storage of cargo. They collect a bank guarantee and a fixed fee per piece for services including storing cargo in their warehouse, loading, unloading, delivering cargo to clients, and collecting payments from them. These measures have reduced costs and increased savings, while ensuring that payment for sales is guaranteed through the bank guarantee.
+Depot Rationalization – 3F Industries, India
 
-Depot Rationalisation
+Overview:
 
-Outsourced depot ops to C&F agents with per-piece payments, eliminating fixed operational overhead. 
-Ensured payment security through bank guarantees and improved delivery turnaround time. 
-Maximised depot performance through rigorous performance metrics monitoring, fostering cost reductions, and improving service delivery consistency.
+Restructured cargo distribution network to reduce fixed costs and enhance delivery efficiency.
+
+Key Achievements:
+
+• Transitioned operations to Clearing & Forwarding (C&F) agents on a pay-per-piece model.
+
+• Secured transactions via bank guarantees, protecting receivables.
+
+• Introduced performance-based monitoring to evaluate depot output and service quality.
+
+Keywords:
+
+Depot Rationalisation | Third-Party Logistics | Supply Chain Cost Control | Freight Management | Vendor Contracts | Pay-Per-Piece | C&F Outsourcing | Fixed Cost Elimination
